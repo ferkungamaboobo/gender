@@ -1,3 +1,5 @@
 # gender
 
-it/its kitten thing
+am i/being detained
+
+professional: they/them
